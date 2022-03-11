@@ -55,7 +55,7 @@ is_mine_feild_clear()
 
 
 #min_F[0,2] -> 'm' -> there is mine
-#min_f[1,2] -> 'x' -> there is no mine
+#min_f[1,2] -> 'x' -> there is no mine.
 
 
 
